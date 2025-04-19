@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **data structures , databases and data analytics**
 
-- 📫 How to reach me **kendall24gb@gmail.com**
+- 📫 How to reach me **kendall24gb@gmail.com** , **wa.me/50686342267**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
