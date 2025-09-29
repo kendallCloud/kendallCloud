@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kendall</h1>
 <h3 align="center">A passionate sofware engineer and data analyst from Costa Rica</h3>
 
-- 🔭 I’m currently working on [Conta fast tavuel](private)
-
-- 🌱 I’m currently learning **pytorch and pandas**
-
 - 👨‍💻 All of my projects are available at [KendallCloud.github.io](KendallCloud.github.io)
 
 - 💬 Ask me about **data structures , databases and data analytics**
